@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.leejy97.chessroyala",
+        "sha256_cert_fingerprints": ["12:F9:34:03:60:6B:6F:A2:2A:91:0B:F2:0D:03:2E:A7:AA:F9:B6:7A:0C:57:8B:B4:7F:F8:B7:C3:13:C8:4D:D8"]
+      }
+    }]
